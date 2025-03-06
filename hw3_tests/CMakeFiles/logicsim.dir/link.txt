@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -g3 -O0   CMakeFiles/logicsim.dir/home/codio/workspace/hw3/logicsim/logicsim.cpp.o  -o logicsim libhw3_circuit.a testing_utils/libtesting_utils.a -lpthread /usr/lib/x86_64-linux-gnu/libgtest.so testing_utils/kwsys/libkwsys.a 
